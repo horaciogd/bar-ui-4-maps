@@ -65,3 +65,9 @@ For the previous example player's URL would be:
 Finally, share your map or embed it in your web.
 
 *http://u.osmfr.org/m/106280/*
+
+
+Important Note
+--------------
+
+Many platforms such as IOS or Android are changing their policy regarding the required permissions on web map applications so by default all content must be served throught https. If you don't have a security certificate your player may not be displayed in some browsers. If that's the case you can use directly our player: *https://debug.cgeomap.eu/bar-ui/index.php*
