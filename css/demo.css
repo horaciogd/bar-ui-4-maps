@@ -20,7 +20,6 @@ body {
  margin: 0px;
  padding: 0.5em;
  transition: color 0.2s ease-in-out;
- padding-bottom: 64px; /* room for the bottom bar UI player */
 }
 
 h1 {
