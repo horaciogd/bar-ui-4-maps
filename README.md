@@ -21,10 +21,9 @@ You will need a server that can run PHP, because the player dynamically collects
 Download bar-ui-4-maps on GitHub and upload it to your server.
 
 
-**3) Create your map using Umap**
+**3) Create your map using Umap -*http://umap.openstreetmap.fr/*-**
 
 ![alt tag](http://www.vhplab.net/IMG/png/umap.png)
-Create a map using Umap.
 
 
 **4) Use iframes for the players**
@@ -72,9 +71,7 @@ For the previous example player's URL would be:
 
 **9) Share your Sound Map**
 
-Finally, share your map or embed it in your web.
-
-*http://u.osmfr.org/m/107315/*
+Finally, share your map or embed it in your web -*http://u.osmfr.org/m/107315/*-.
 
 ![alt tag](http://www.vhplab.net/IMG/png/bar_ui_4_maps_-_umap_-_2016-10-16_11.37.30.png)
 
